@@ -1,0 +1,114 @@
+pseudocode : hitung_keliling_lingkaran
+
+int r
+phi = 3.14
+
+print "Masukan Jari-Jari"
+read r;
+
+keliling = 2* phi* r
+print "keliling lingkaran"
+print keliling;
+
+
+Pseudocode hitung_luas_lingkaran
+
+phi = 3.14
+
+print "Masukan Jari-Jari"
+read jari;
+
+luas = 2* phi* jari
+print "keliling lingkaran"
+print keliling;
+
+
+import scanner untuk inputan
+
+Deklarasi : jari, luas, phi= 3.14 : double
+
+
+jari = input jari
+
+luas = phi * jari * jari
+print luas
+
+
+Algoritma : hitung_keliling_persegi
+
+
+
+import scanner untuk inputan
+
+Deklarasi : sisi, keliling : double
+
+
+sisi = input sisi
+
+keliling = 4 * sisi
+print keliling
+
+
+Algoritma : hitung_luas_persegi
+
+
+
+import scanner untuk inputan
+
+Deklarasi : sisi, luas : double
+
+
+sisi = input sisi
+
+luas = sisi * sisi
+print luas
+
+
+Algoritma : hitung_keliling_persegi_panjang
+
+
+import scanner untuk inputan
+
+Deklarasi : panjang, lebar, keliling : double
+
+
+panjang = input panjang
+lebar = input lebar
+
+keliling = 2* (panjang + lebar)
+print keliling
+
+
+Algoritma : hitung_luas_persegi_panjang
+
+
+
+import scanner untuk inputan
+
+Deklarasi : panjang, lebar, luas : double
+
+
+panjang = input panjang
+lebar = input lebar
+
+luas = panjang * lebar
+print luas
+
+
+Algoritma : hitung_keliling_segitiga_siku
+
+
+
+import scanner untuk inputan
+
+Deklarasi : sisi_a, sisi_b, sisi_c, keliling : double
+
+
+sisi_a = input sisi_a
+sisi_b = input sisi_b
+sisi_c = input sisi_c
+
+keliling = sisi_a + sisi_b + sisi_c
+print keliling
+
+
